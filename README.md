@@ -1,1 +1,0 @@
-# gender-wage-gap
